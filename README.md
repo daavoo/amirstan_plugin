@@ -55,4 +55,4 @@ output-blob-names=num_detections;boxes;scores;classes
 custom-lib-path=/home/nvidia/amirstan_plugin/build/lib/libamirstan_plugin.so
 ```
 
-You can read more information on how to use it in conjuntion with [`mmdetection-to-tensorrt`](https://github.com/grimoire/mmdetection-to-tensorrt#deepstream)
+You can read more information about how to use this in conjuntion with [`mmdetection-to-tensorrt`](https://github.com/grimoire/mmdetection-to-tensorrt#deepstream)
